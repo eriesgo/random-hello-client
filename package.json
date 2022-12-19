@@ -1,0 +1,28 @@
+{
+  "name": "random-hello-client",
+  "version": "1.0.0",
+  "description": "Sample client to random-hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eriesgo/random-hello-client.git"
+  },
+  "keywords": [
+    "random",
+    "hello",
+    "dummy"
+  ],
+  "author": "Enrique Riesgo (enrique.riesgo@gmail.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eriesgo/random-hello-client/issues"
+  },
+  "homepage": "https://github.com/eriesgo/random-hello-client#readme",
+  "dependencies": {
+    "@feelpop/random-hello": "^2.0.0-0"
+  },
+  "type": "module"
+}
